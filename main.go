@@ -27,5 +27,5 @@ func main(){
 	//db.DeleteData(1)
 
 	//db.UpdateAcc(2, user1)
-	db.Search("3")
+	db.SearchAcc("3")
 }
