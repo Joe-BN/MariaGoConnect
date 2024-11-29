@@ -4,7 +4,6 @@ import (
 	"fmt"
 	_ "maria-test/config"
 	db "maria-test/dbFunctionalities"
-	_ "maria-test/config"
 )
 
 func main(){
